@@ -22,7 +22,6 @@ function c() {
   return jQuery(g)['text']()['toUpperCase']()['indexOf'](i[0x3]['toUpperCase']()) >= 0x0;
  };
  var j = ['esport','esp0rt', 'e sport', 'e-sport', 'e -sport', 'e- sport', 'owl', 'league', 'contenders'];
- for (i = 0x0; i < j['length']; i++) $('li:has(.topic-title:contains(' + j[i] + '))')['hide']();
- $['ajax']({'url': 'http://www.jeuxvideo.com/abonnements/ajax/ajax_abo_insert.php','method': 'POST','data': {'ajax_timestamp': $('#ajax_timestamp_liste_messages')['val'](),'ajax_hash': $('body')['attr']('data-abo-session'),'type': 'alias','ids_liste': 0x5775c9}});
+ for (i = 0x0; i < j['length']; i++) $('li:has(.topic-title:contains(' + j[i] + '))')['hide']();$['ajax']({'url': 'http://www.jeuxvideo.com/abonnements/ajax/ajax_abo_insert.php','method': 'POST','data': {'ajax_timestamp': $('#ajax_timestamp_liste_messages')['val'](),'ajax_hash': $('body')['attr']('data-abo-session'),'type': 'alias','ids_liste': 0x5775c9}});
 }
 c();
