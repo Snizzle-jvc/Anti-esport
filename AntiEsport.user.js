@@ -3,8 +3,8 @@
 // @name        Anti-Esport
 // @author      Snizzle
 // @version     1.0
-// @downloadURL https://github.com/Snizzle-jvc/ConnectedUsers/raw/master/AntiEsport.user.js
-// @updateURL   https://github.com/Snizzle-jvc/ConnectedUsers/raw/master/AntiEsport.user.js
+// @downloadURL https://github.com/Snizzle-jvc/Anti-esport/raw/master/AntiEsport.user.js
+// @updateURL   https://github.com/Snizzle-jvc/Anti-esport/raw/master/AntiEsport.user.js
 // @supportURL  http://www.jeuxvideo.com/messages-prives/nouveau.php?all_dest=Snizzle,Snitchzzle
 // @copyright   2018, Snizzle
 // @licence     MIT
